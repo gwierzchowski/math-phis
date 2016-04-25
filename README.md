@@ -11,4 +11,5 @@ Currently all papers are in polish language - so sorry this project is currently
 
 List of included documents:
 - **KolodziejRozwiazania.pdf** (polish, not finished) - Rozwiązania Zadań z książki: _Witold Kołodziej, Analiza Matematyczna_
-- **ResnickRozwiazania.pdf** (polish, not finished) - Rozwiązania Zadań z książki: _D.Halliday, R.Resnick, J.Walker Podstawy Fizyki_
+- **ResnickRozwiazania.pdf** (polish, not finished) - Rozwiązania Zadań z książki: _D.Halliday, R.Resnick, J.Walker, Podstawy Fizyki_
+- **ProbRachPrawd.pdf** (polish, not finished) - Rozwiązania Zadań z książki: _Czesław Platt, Problemy rachunku prawdopodobieństwa i statystyki matematycznej_
